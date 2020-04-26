@@ -14,4 +14,4 @@ the original has the extension .bak, I made a backup of it while I was trying to
 
 **original one** : https://github.com/mAshraf9/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so.bak
 
-**modified one** : 
+**modified one** : https://github.com/mAshraf9/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so
