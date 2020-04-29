@@ -12,6 +12,6 @@ in the repository I have pushed both modified and original library.
 
 the original has the extension .bak, I made a backup of it while I was trying to modify it.
 
-**original one** : https://github.com/mAshraf9/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so.bak
+**original one** : https://github.com/mSharif10/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so.bak
 
 **modified one** : https://github.com/mSharif10/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so
