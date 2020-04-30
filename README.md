@@ -9,4 +9,4 @@ Tools I used when patching:
 2. Hexeditor for editing the library.
 
 
-**patched lib** : https://github.com/mSharif10/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so
+**patched lib v3.0.0.4.6 ** : https://github.com/mSharif10/Creator-Studio-app-SSL-pinning-bypass/blob/master/libcoldstart.so
